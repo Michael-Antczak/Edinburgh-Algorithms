@@ -2,11 +2,11 @@
 
 1. Get to know each other
 1. Expectations 
-1. Algorithms basics
-1. Pseudo code
+1. [Algorithms basics](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/README.md#algorithms)
+1. [Pseudo code](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/README.md#pseudocode)
 1. Data structures basics
-1. Formal Big O definition
-1. Introduction to Hackerrank
+1. [Formal Big O definition](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/README.md#big-o-notation)
+1. [Introduction to Hackerrank](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/README.md#introduction-to-hackerrank)
 1. Problem solving
 
 This folowing section is based on [Introduction to Computer Science](https://github.com/Michael-Antczak/Intro-to-computer-science) class for the Code Your Future students. 
