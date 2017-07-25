@@ -62,6 +62,9 @@ the compiler
 
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
 
+### Comparison 
+![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/choosing_sorting_algorithm.png "Choose sorting algorithm") 
+
 # Pseudocode
 
 **Sorting algorithms** [animation](https://www.toptal.com/developers/sorting-algorithms)  
