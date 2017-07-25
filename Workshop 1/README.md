@@ -58,7 +58,11 @@ the compiler
   
   **Functions used in complexity analysis**  
   
-  ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/complexity_functions.png "Functions comparison") 
+  ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/complexity_functions.png "Functions comparison")  
+  
+  ![alt text](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/Growth%20rates.png "Growth rates")     
+  
+  ![alt text](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/Function%20classes.png "Function classes") 
 
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
 
