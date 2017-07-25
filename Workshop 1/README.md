@@ -118,12 +118,19 @@ FindIndexOfSmallest( A, i, n )
 
 ### Why Hackerrank? 
 
-![alt text](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/Skyscanner%20Q1.png "Skyscanner Q1") 
+![alt text](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%201/Skyscanner%20Q1.png "Skyscanner Q1")    
 
-### Excercise (15 mins)
+[Codewars](https://www.codewars.com/kata/563f037412e5ada593000114/train/javascript) example   
 
+### Other options?   
+[Project Euler](https://projecteuler.net/)
+
+### Excercise 
 Arrays - DS on [Hackerrank](https://www.hackerrank.com/challenges/arrays-ds/problem)   
 
-### Excercise (10 mins)
-Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem)  
+### Excercise 
+Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem)   
+
+### Excercise
+Hard problem [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
 
