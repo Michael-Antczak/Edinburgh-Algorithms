@@ -31,9 +31,6 @@ You are given an array of numbers: `[32, 16, 13, 9, 1, 99, 34, 64]`. In how many
 
 ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/sorting_problem.png "Sorting problem") 
 
-### Excercise (15 mins)
-
-Arrays - DS on [Hackerrank](https://www.hackerrank.com/challenges/arrays-ds/problem)   
 
 ### What are characteristics of a good algorithm? (5 min)
   - efficient (speed and space)
@@ -50,8 +47,6 @@ the compiler
   - The machine used to execute the program  
   
    
-### Excercise (10 mins)
-Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem)  
   
 ### [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)  
  
@@ -66,3 +61,62 @@ Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/sim
   ![alt text](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/resources/complexity_functions.png "Functions comparison") 
 
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
+
+# Pseudocode
+
+**Sorting algorithms** [animation](https://www.toptal.com/developers/sorting-algorithms)  
+
+### [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)  
+  (sorting cards)
+
+```
+for i = 1 to length(A)
+    j ← i
+    while j > 0 and A[j-1] > A[j]
+        swap A[j] and A[j-1]
+        j ← j - 1
+    end while
+end for
+```
+
+[Insertion sort JS code](https://github.com/Michael-Antczak/Intro-to-computer-science/blob/master/examples/size_of_input/sorting/insertion_sort.js)
+
+### [Selection sort](https://en.wikipedia.org/wiki/Selection_sort)  
+
+Selection sort on [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/selection-sort-pseudocode)
+
+```
+SelectionSort(A)
+// GOAL: place the elements of A in ascending order
+1  n := length[A]
+2  for i := 1 to n
+3     // GOAL: place the correct number in A[i]
+4     j := FindIndexOfSmallest( A, i, n )
+5     swap A[i] with A[j]
+      // L.I. A[1..i] the i smallest numbers sorted
+6  end-for
+7  end-procedure
+
+
+FindIndexOfSmallest( A, i, n )
+// GOAL: return j in the range [i,n] such 
+//       that A[j]<=A[k] for all k in range [i,n]
+1  smallestAt := i ;
+2  for j := (i+1) to n
+3     if ( A[j] < A[smallestAt] ) smallestAt := j
+      // L.I. A[smallestAt] smallest among A[i..j]
+4  end-for
+5  return smallestAt
+6  end-procedure
+```
+
+
+# Introduction to Hackerrank
+
+### Excercise (15 mins)
+
+Arrays - DS on [Hackerrank](https://www.hackerrank.com/challenges/arrays-ds/problem)   
+
+### Excercise (10 mins)
+Solve Simple Array Sum on [Hackerrank](https://www.hackerrank.com/challenges/simple-array-sum/problem)  
+
