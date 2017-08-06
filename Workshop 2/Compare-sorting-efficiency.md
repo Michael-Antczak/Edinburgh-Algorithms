@@ -28,4 +28,7 @@ and for the **computer B**:
 ## Exercise
 What is the smallest value of **n** such that an algorithm whose running time is **100n<sup>2</sup>** runs faster than an algorithm whose running time is **2<sup>n</sup>** on the same machine?
 
-Add table
+| Algorithm and n | 1 | 2 | 3 | 4 | 5 | 6 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 100n<sup>2</sup>  | 100 | 400 | 900 | 1600 | 2500 | 3600 |
+| 2<sup>n</sup>  | 2 | 4 | 8 | 16 | 32 | 64 |
