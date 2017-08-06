@@ -21,3 +21,4 @@ and for the **computer B**:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\large&space;\frac{50*10^{7}lg10^{7}}{10^{7}}=&space;1,163sec&space;\approx&space;20mins." target="_blank"><img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\large&space;\frac{50*10^{7}lg10^{7}}{10^{7}}=&space;1,163sec&space;\approx&space;20mins." title="\large \frac{50*10^{7}lg10^{7}}{10^{7}}= 1,163sec \approx 20mins." /></a>
 
+#### Algorithms matter!
