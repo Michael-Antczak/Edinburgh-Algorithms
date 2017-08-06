@@ -1,3 +1,5 @@
+# Compare sorting efficiency
+
 ### Problem:
 sort an array of 10 million numbers **(10<sup>7</sup>)**
 
