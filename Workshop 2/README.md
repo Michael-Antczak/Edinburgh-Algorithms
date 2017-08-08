@@ -1,1 +1,6 @@
-# Proof for the lower bound of any sorting algorithm based on comparisons
+# Workshop 2
+
+- insertion sort
+- selection sort
+- stack and queue
+- why computer power does not matter
