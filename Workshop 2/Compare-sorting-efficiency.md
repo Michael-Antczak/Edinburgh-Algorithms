@@ -1,4 +1,5 @@
 # Compare sorting efficiency
+and why computer power does not matter that much...   
 
 ## Problem:
 sort an array of 10 million numbers **(10<sup>7</sup>)**
@@ -28,7 +29,7 @@ and for the **computer B**:
 ## Exercise
 What is the smallest value of **n** such that an algorithm whose running time is **100n<sup>2</sup>** runs faster than an algorithm whose running time is **2<sup>n</sup>** on the same machine?
 
-| Algorithm and n | 1 | 2 | 3 | 4 | 5 | 6 | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 100n<sup>2</sup>  | 100 | 400 | 900 | 1600 | 2500 | 3600 |
-| 2<sup>n</sup>  | 2 | 4 | 8 | 16 | 32 | 64 |
+| Algorithm and n | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 10 | 12 | 14 | 16 | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 100n<sup>2</sup>  | 100 | 400 | 900 | 1600 | 2500 | 3600 | 4900 | 6400 | 10,000 | 14,400 | 19,600 | 25,600 |
+| 2<sup>n</sup>  | 2 | 4 | 8 | 16 | 32 | 64 |128 | 256 | 1024 | 4096 |16,384 | 65,536 |
