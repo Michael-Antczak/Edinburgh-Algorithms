@@ -5,6 +5,9 @@
 - stack and queue
 - why computer power does not matter
 
+## Order of growth
+
+![alt-text](https://github.com/Michael-Antczak/Edinburgh-Algorithms/blob/master/Workshop%202/resources/types-of-order-growth.png "Order of growth")
 
 ## Exercise
 Express the following functions in terms of BigOh-notation.     
