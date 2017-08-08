@@ -1,6 +1,8 @@
 # Compare sorting efficiency
 and why computer power does not matter that much...   
 
+What we care about is to have a way to compare the algorithms independent of the computer they run on. We need to link the **size of the input** and the **change in the running time**. We are interested in the **order of magnitude**, i.e. what is the change in the running time when I double the input?     
+
 ## Problem:
 sort an array of 10 million numbers **(10<sup>7</sup>)**
 
