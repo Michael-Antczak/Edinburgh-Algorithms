@@ -1,6 +1,7 @@
 # Merge sort
 
 ## Content
+1. Recap - comparison sort
 1. Divide and conquer
 1. Idea
 1. Pseudocode
